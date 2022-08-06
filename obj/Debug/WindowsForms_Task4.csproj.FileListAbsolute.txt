@@ -11,4 +11,4 @@ C:\Users\Hafiz\source\vs2022\WindowsForms_Task4\WindowsForms_Task4\obj\Debug\Win
 C:\Users\Hafiz\source\vs2022\WindowsForms_Task4\WindowsForms_Task4\obj\Debug\WindowsForms_Task4.pdb
 C:\Users\Hafiz\source\vs2022\WindowsForms_Task4\WindowsForms_Task4\bin\Debug\Guna.UI2.dll
 C:\Users\Hafiz\source\vs2022\WindowsForms_Task4\WindowsForms_Task4\obj\Debug\WindowsForms_Task4.csproj.CopyComplete
-C:\Users\Hafiz\source\vs2022\WindowsForms_Task4\WindowsForms_Task4\obj\Debug\WindowsForms_Task4.student.resources
+C:\Users\Hafiz\source\vs2022\WindowsForms_Task4\WindowsForms_Task4\obj\Debug\WindowsForms_Task4.StudentUC.resources

@@ -57,11 +57,11 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="studentuc.cs">
+    <Compile Include="StudentUC.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="studentuc.Designer.cs">
-      <DependentUpon>studentuc.cs</DependentUpon>
+    <Compile Include="StudentUC.Designer.cs">
+      <DependentUpon>StudentUC.cs</DependentUpon>
     </Compile>
     <Compile Include="StudentClass.cs" />
     <EmbeddedResource Include="Form1.resx">
@@ -77,8 +77,8 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
-    <EmbeddedResource Include="studentuc.resx">
-      <DependentUpon>studentuc.cs</DependentUpon>
+    <EmbeddedResource Include="StudentUC.resx">
+      <DependentUpon>StudentUC.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
@@ -109,6 +109,22 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\crystal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\crystalColorless.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancelColorless.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\crystal1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\cancelColorful.png" />
+    <None Include="Resources\cancelColorful1.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
